@@ -1,5 +1,7 @@
 /********************************************************************
+transmit-interfere -- disc spinner
 
+below is the code for the disc spinner instrument [device]
 ********************************************************************/
 int analogIn = A2;
 int analogIn2 = A3;
